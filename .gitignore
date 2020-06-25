@@ -114,6 +114,7 @@ dist
 .DS_*
 **/*.backup.*
 **/*.back.*
+.env.development.local
 
 node_modules
 
