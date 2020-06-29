@@ -28,4 +28,3 @@ const App = () => {
 };
 
 export default App;
-// 7030295390-2bv6vd96nfsl0tagk9uf5hr2tve6bin6.apps.googleusercontent.com
